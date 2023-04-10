@@ -7,6 +7,5 @@ public class HWClass3 {
 		System.out.println("First line...");
 		
 	}
-	
 
 }
